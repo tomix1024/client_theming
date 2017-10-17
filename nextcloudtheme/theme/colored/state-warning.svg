@@ -1,1 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1" viewBox="0 0 4.2333331 4.2333334"><g transform="translate(0 -292.77)"><circle stroke-width=".25066" cy="294.88" cx="2.1167" r="2.1167" fill="#e0d92d"/><path stroke-linejoin="round" d="m2.1167 293.83v1.3156" stroke="#fff" stroke-linecap="round" stroke-width=".52917" fill="none"/><circle cx="2.1103" cy="295.95" r=".33073" fill="#fcffff"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   viewBox="0 0 4.2333331 4.2333334"
+   version="1.1"
+   width="16"
+   height="16">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <g
+     id="g4"
+     transform="matrix(0.9374853,0,0,0.93748536,0.13229142,-274.32902)">
+    <circle
+       style="fill:#e0d92d;stroke-width:0.25066"
+       id="circle6"
+       r="2.1166999"
+       cx="2.1166999"
+       cy="294.88" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.56445682;stroke-linecap:round;stroke-linejoin:round"
+       id="path8"
+       d="m 2.1167,293.83 0,1.3156" />
+    <circle
+       style="fill:#fcffff"
+       id="circle10"
+       r="0.33072999"
+       cy="295.95001"
+       cx="2.1103001" />
+  </g>
+</svg>
